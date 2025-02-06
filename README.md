@@ -1,4 +1,4 @@
-Hi! My name is Avinash Chowdary 
+Avinash Chowdary M
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer based in Bangalore , india.
