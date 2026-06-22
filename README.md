@@ -1,7 +1,7 @@
 Avinash Chowdary M
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Bangalore , india.
+🌍  I am a Senior Software Engineer.
 <br/>
 
 ### Skills
